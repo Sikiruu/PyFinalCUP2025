@@ -17,5 +17,8 @@ Student ID: 2022010901
 
 ## Run
 
+Using Python 3.12.7. You need to install the necessary libraries.
+
 ```bash
 python src/main.py
+```
